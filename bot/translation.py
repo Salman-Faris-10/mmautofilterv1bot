@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {} How are you!!</b>
+    START_TEXT = """<b><u>Hey {} How are you!!</b></u>
 <i>വെറുതെ start ഞെക്കി കളിക്കല്ലേ പൊട്ടാ വല്ലതും വേണമെങ്കിൽ
 ഗ്രൂപ്പിൽ പോയി ചോദിക്ക് എന്നിട്ട് start കൊടുക്ക്
 ...........
@@ -49,16 +49,16 @@ Series     :@Mmedia_SERIES
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/MANAVALANS_MEDIA">Messi_10_king_bot</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+<b>➥ Source Code</b> : <i><a href="https://github.com/botfilters/mmautofilterv1bot">Click Me</a></i>
 """
