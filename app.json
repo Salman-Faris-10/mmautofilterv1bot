@@ -7,7 +7,7 @@
         "Filter",
         "Mongo DB"
     ],
-    "website": "https://github.com/AlbertEinsteinTG",
+    "website": "https://github.com/botfilters/mmautofilterv1bot",
     "repository": "https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2",
     "success_url": "https://telegram.dog/CrazyBotsz",
     "env": {
