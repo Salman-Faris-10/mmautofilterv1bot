@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG
+# (c) @FM_Admin_owner
 
 class Translation(object):
     
@@ -23,8 +23,10 @@ Series     :@FM_SERIES
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> Go To @FM_FilmMania group
+-> search a movie
+-> click the file button
+-> press The "start" button
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -54,7 +56,7 @@ Series     :@FM_SERIES
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/MANAVALANS_MEDIA">Messi_10_king_bot</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/FM_FilmMania">FM_Admin_owner</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
